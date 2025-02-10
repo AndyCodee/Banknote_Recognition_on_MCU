@@ -1,1 +1,1 @@
-# Banknote_Recognition_on_MCU" >> README.md
+# Banknote_Recognition_on_MCU"
