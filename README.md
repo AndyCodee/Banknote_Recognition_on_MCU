@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/65bda780-0380-43b8-a790-017e51f4f0d4)
 
 ## Method
-### Operating principle
+### Operating Principle
 `Color Sensor`:
 - When an object is illuminated with white light, it reflects 
 the wavelengths of light that correspond to its inherent 
@@ -21,12 +21,13 @@ colored light
 - ![image](https://github.com/user-attachments/assets/d53c70fb-e76b-4c94-8a99-273e58268411)
 
 ### Machine Learning
-- use MLP (Multilayer Perceptron) as the model architecture.
+- Use MLP (Multilayer Perceptron) as the model architecture.
 - ![image](https://github.com/user-attachments/assets/1208b72e-beb0-4a88-8600-db722dd545b8)
 
 
 
-# Flow chart
+### Flow chart
+- 
 ![image](https://github.com/user-attachments/assets/26ee4f93-4d54-4b3a-afb6-f2aa02374a62)
 
 
