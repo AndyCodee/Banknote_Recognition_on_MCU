@@ -14,7 +14,15 @@
 the wavelengths of light that correspond to its inherent 
 color.
 - Reflected light can be used to determine an object’s color.
-- ![image](https://github.com/user-attachments/assets/57468ab7-df6f-4e27-8e53-ae796c2d318d)
+- A photoresistor’s resistance varies with light intensity
+- Cellophane can assist in filtering light
+- Combining these helps detect the intensity of specific 
+colored light
+- ![image](https://github.com/user-attachments/assets/d53c70fb-e76b-4c94-8a99-273e58268411)
+
+### Machine Learning
+- use MLP (Multilayer Perceptron) as the model architecture.
+- ![image](https://github.com/user-attachments/assets/1208b72e-beb0-4a88-8600-db722dd545b8)
 
 
 
