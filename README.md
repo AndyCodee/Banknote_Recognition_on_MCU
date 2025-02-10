@@ -1,4 +1,4 @@
-# Banknote_Recognition_on_MCU
+# Banknote Recognition on MCU
 
 ## Device
 ### NuvoTon NuMaker-M032KG
