@@ -1,4 +1,4 @@
-# Banknote Recognition on MCU
+# Using NuMaker-M032KG, combine a neural network to Recognize the texture of banknote
 
 ## Device
 ### NuvoTon NuMaker-M032KG
