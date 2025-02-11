@@ -40,9 +40,26 @@ colored light
 - Use MLP (Multilayer Perceptron) as the model architecture.
 - ![image](https://github.com/user-attachments/assets/1208b72e-beb0-4a88-8600-db722dd545b8)
 
+### STEPS
+1. `Baseline Initialization`:
+Perform an initial scan of the ADC values from the three RGB photoresistors to establish the baseline ambient light levels.
+2. `Continuous Monitoring`:
+Continuously monitor the ADC(Analog-to-digital converter register) values of the RGB photoresistors for any significant changes.
+3. `Banknote Detection (Start of Recording)`:
+When a significant change in the RGB photoresistor values is detected, it indicates that a banknote has been inserted.
+Start recording the variations in RGB intensity.
+4. `Banknote Exit Detection (End of Recording)`:
+When a second significant change is detected, it indicates that the banknote has passed through, and the ambient light has returned to the baseline.
+Stop recording and finalize the RGB time-series data.
+5. `Data Resampling`:
+Resample the recorded time-series data to a fixed temporal length to ensure consistency in model input.
+6. `Banknote Recognition`:
+Feed the resampled data into the predictive model to determine the denomination of the banknote.
+7. `Result Display`:
+Output the recognition result on the terminal.
+
 ### Flow Chart
 ![image](https://github.com/user-attachments/assets/26ee4f93-4d54-4b3a-afb6-f2aa02374a62)
-
 
 ## DEMO Video (YouTube) 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qb9uLU0ng0Y/0.jpg)](https://www.youtube.com/watch?v=qb9uLU0ng0Y)
