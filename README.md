@@ -1,14 +1,18 @@
 # Using NuMaker-M032KG, combine a neural network to Recognize the texture of banknote
 - In this project, we aim to utilize three photoresistors to measure the light intensity corresponding to RGB values. This is achieved by covering each photoresistor with a red, green, or blue translucent filter, allowing only the respective color’s light to pass through. By doing so, we can capture the intensity of each RGB component and analyze variations in light intensity to identify color pattern changes on banknotes.
 - The overall methodology involves first collecting data, then using this time-series data to train a simple neural network. The trained model outputs a weight matrix, which is subsequently used in the final predictive model for real-time banknote color pattern recognition.
-- gif
+<img src="https://github.com/user-attachments/assets/3660d42c-c90f-4c90-97cd-460a651b6222" width="600">
+
+
+
 
 
 ## Content
 * [Device and IDE](#device-and-ide)
 * [Circuit Diagram](#circuit-diagram)
-* [Method](#method)
+* [Operating Principle](#operating-principle)
 * [Machine Learning](#machine-learning)
+* [STEPS](#steps)
 * [Flow Chart](#flow-chart)
 * [DEMO Video (YouTube)](#demo-video-youtube)
 
