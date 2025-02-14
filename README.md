@@ -63,7 +63,8 @@ Feed the resampled data into the predictive model to determine the denomination 
 Output the recognition result on the terminal.
 
 ### Flow Chart
-![image](https://github.com/user-attachments/assets/26ee4f93-4d54-4b3a-afb6-f2aa02374a62)
+![8975d8b79529472b9b0c307d35e6bd031c3781c542c6b6670f163b403081856e](https://github.com/user-attachments/assets/c9f31a80-07d1-4316-83b5-332495b21d1b)
+
 
 ## DEMO Video (YouTube) 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qb9uLU0ng0Y/0.jpg)](https://www.youtube.com/watch?v=qb9uLU0ng0Y)
