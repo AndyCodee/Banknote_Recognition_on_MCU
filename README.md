@@ -38,7 +38,8 @@ color.
 - Cellophane can assist in filtering light
 - Combining these helps detect the intensity of specific 
 colored light
-- ![image](https://github.com/user-attachments/assets/d53c70fb-e76b-4c94-8a99-273e58268411)
+![image](https://github.com/user-attachments/assets/c13b484b-c562-4fa8-8394-95dc814afdd4)
+
 
 ### Machine Learning
 - Use MLP (Multilayer Perceptron) as the model architecture.
